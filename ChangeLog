@@ -1,5 +1,7 @@
 2012-09-05  Douglas Bates  <bates@stat.wisc.edu>
 
+	* DESCRIPTION (Date): New version and date
+	* data/*: replaced .tab files with compressed .rda files.
 	* NAMESPACE: File added.
 	* R/zzz.R: File removed.  NAMESPACE now imports stats package.
 
